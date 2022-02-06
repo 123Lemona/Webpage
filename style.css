@@ -1,0 +1,14 @@
+body{background-color: rgb(118, 233, 248);}
+.first{background-color: rgb(121, 20, 216);}
+.portable{background-color: rgb(127, 29, 219);}
+.color{background-color: rgb(145, 59, 226);}
+.features{background-color: rgb(161, 100, 218);}
+.companion{background-color: rgb(175, 112, 233);}
+p{font-size: 130%;}
+img{width:150px; }
+table{background-color: rgb(247, 148, 197);border:1px solid black;}
+.one{font-family:Verdana;}
+.two{font-family:Geneva;}
+.three{font-family:Arial;}
+.four{font-family:Franklin Gothic;}
+.five{font-family:Cambria}
